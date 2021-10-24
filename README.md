@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cars and Technology
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on Discord?
-- 📫 How to reach me Daniel Gunn#2939
+- 📫 How to reach me VolvoKot#3508
+- I know html
 
 <!---
 dg130198/dg130198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
