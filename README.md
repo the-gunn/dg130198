@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dg130198
 - 👀 I’m interested in Cars and Technology
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord: VolvoKot#3508 Email: volvokot@aol.com 
 - 🌐 Website: https://volvokot.cf
 <!---
